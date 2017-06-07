@@ -1,0 +1,2404 @@
+
+
+
+year: 1888-89
+
+	league: 1
+		Our metric: 5.891828911014531
+		Sim table SD: 5.670988348971162 
+		Act table SD: 11.179097558489335
+
+
+year: 1889-90
+
+	league: 1
+		Our metric: 4.8751721337131615
+		Sim table SD: 5.232766147608314 
+		Act table SD: 10.053675392058812
+
+
+year: 1890-91
+
+	league: 1
+		Our metric: 3.203934027098561
+		Sim table SD: 5.3646772988534295 
+		Act table SD: 7.909207011803115
+
+
+year: 1891-92
+
+	league: 1
+		Our metric: 7.438988280865694
+		Sim table SD: 5.8058882940212575 
+		Act table SD: 13.080012794102212
+
+
+year: 1892-93
+
+	league: 1
+		Our metric: 4.650886669496473
+		Sim table SD: 6.489980385358939 
+		Act table SD: 10.511154789080027
+
+	league: 2
+		Our metric: 6.326069422108276
+		Sim table SD: 5.390062543442536 
+		Act table SD: 11.173816119243536
+
+
+year: 1893-94
+
+	league: 1
+		Our metric: 4.643369244148047
+		Sim table SD: 6.401982222022624 
+		Act table SD: 10.671222985206523
+
+	league: 2
+		Our metric: 9.882091441930026
+		Sim table SD: 6.113493022269129 
+		Act table SD: 15.92845113485789
+
+
+year: 1894-95
+
+	league: 1
+		Our metric: 5.378353517806356
+		Sim table SD: 6.376623898258683 
+		Act table SD: 11.067971810589327
+
+	league: 2
+		Our metric: 8.24433904643059
+		Sim table SD: 5.9465825029880595 
+		Act table SD: 13.99497677740124
+
+
+year: 1895-96
+
+	league: 1
+		Our metric: 4.963627447492408
+		Sim table SD: 6.2158390118385265 
+		Act table SD: 10.902802105422257
+
+	league: 2
+		Our metric: 9.370670290192692
+		Sim table SD: 5.914568226725748 
+		Act table SD: 15.122417134836613
+
+
+year: 1896-97
+
+	league: 1
+		Our metric: 3.841216425170547
+		Sim table SD: 6.5723882550409325 
+		Act table SD: 9.526279441628825
+
+	league: 2
+		Our metric: 5.174305980032491
+		Sim table SD: 5.999627472810292 
+		Act table SD: 10.773049417411952
+
+
+year: 1897-98
+
+	league: 1
+		Our metric: 2.7166635212149473
+		Sim table SD: 6.418096526801678 
+		Act table SD: 8.35141267990033
+
+	league: 2
+		Our metric: 8.692668570410355
+		Sim table SD: 6.018861738318966 
+		Act table SD: 14.547336525976155
+
+
+year: 1898-99
+
+	league: 1
+		Our metric: 2.012461980317199
+		Sim table SD: 6.723284775527474 
+		Act table SD: 8.31924735437106
+
+	league: 2
+		Our metric: 10.505403543468054
+		Sim table SD: 6.217603901398942 
+		Act table SD: 16.50215100083383
+
+
+year: 1899-00
+
+	league: 1
+		Our metric: 4.894993984788041
+		Sim table SD: 6.650793449369243 
+		Act table SD: 10.821788720498619
+
+	league: 2
+		Our metric: 11.29826372108171
+		Sim table SD: 6.46812824548184 
+		Act table SD: 17.676098111417136
+
+
+year: 1900-01
+
+	league: 1
+		Our metric: 2.3285886760486973
+		Sim table SD: 6.79793956983009 
+		Act table SD: 8.934777384668308
+
+	league: 2
+		Our metric: 5.132409067224994
+		Sim table SD: 6.468205995912279 
+		Act table SD: 11.345853650639445
+
+
+year: 1901-02
+
+	league: 1
+		Our metric: 2.290885927612577
+		Sim table SD: 6.3529758954678135 
+		Act table SD: 5.672110674711208
+
+	league: 2
+		Our metric: 8.229146408413884
+		Sim table SD: 6.450043921039091 
+		Act table SD: 14.069492431639125
+
+
+year: 1902-03
+
+	league: 1
+		Our metric: 2.873355897049844
+		Sim table SD: 6.841758439407949 
+		Act table SD: 8.538944914151488
+
+	league: 2
+		Our metric: 8.339931984135122
+		Sim table SD: 6.575651040621354 
+		Act table SD: 14.548768561863463
+
+
+year: 1903-04
+
+	league: 1
+		Our metric: 4.908952083240939
+		Sim table SD: 6.928687622691582 
+		Act table SD: 11.162796454802804
+
+	league: 2
+		Our metric: 6.271481536819402
+		Sim table SD: 6.538863786414575 
+		Act table SD: 12.144830734936033
+
+
+year: 1904-05
+
+	league: 1
+		Our metric: 6.393465835436119
+		Sim table SD: 7.0765223605338665 
+		Act table SD: 13.186225510352708
+
+	league: 2
+		Our metric: 11.841369362911069
+		Sim table SD: 6.907161373361297 
+		Act table SD: 18.14107950018683
+
+
+year: 1905-06
+
+	league: 1
+		Our metric: 2.714412671279
+		Sim table SD: 7.079503889927598 
+		Act table SD: 9.406779470148113
+
+	league: 2
+		Our metric: 11.285407668755258
+		Sim table SD: 7.269397997599251 
+		Act table SD: 17.9655225362359
+
+
+year: 1906-07
+
+	league: 1
+		Our metric: 3.8855640066790826
+		Sim table SD: 7.1883352904201665 
+		Act table SD: 10.825433016743489
+
+	league: 2
+		Our metric: 8.008110669814698
+		Sim table SD: 6.947495412017196 
+		Act table SD: 14.381498531098904
+
+
+year: 1907-08
+
+	league: 1
+		Our metric: 2.7673523718529247
+		Sim table SD: 7.491407207427721 
+		Act table SD: 7.4194002453028505
+
+	league: 2
+		Our metric: 8.107534468011838
+		Sim table SD: 7.122621714474243 
+		Act table SD: 14.746185947559457
+
+
+year: 1908-09
+
+	league: 1
+		Our metric: 3.8845127686751137
+		Sim table SD: 7.65211077987636 
+		Act table SD: 8.320306484739609
+
+	league: 2
+		Our metric: 3.732783251141164
+		Sim table SD: 7.1784475473461535 
+		Act table SD: 10.12064721250573
+
+
+year: 1909-10
+
+	league: 1
+		Our metric: 3.72328857329109
+		Sim table SD: 7.560448084604509 
+		Act table SD: 10.917875251164945
+
+	league: 2
+		Our metric: 7.511564011575752
+		Sim table SD: 7.113613245742279 
+		Act table SD: 14.302010348199305
+
+
+year: 1910-11
+
+	league: 1
+		Our metric: 3.8274441276130995
+		Sim table SD: 7.331447847969731 
+		Act table SD: 10.956733089748969
+
+	league: 2
+		Our metric: 4.573326136413191
+		Sim table SD: 7.133800966350267 
+		Act table SD: 11.559736156158582
+
+
+year: 1911-12
+
+	league: 1
+		Our metric: 2.9523467191371675
+		Sim table SD: 7.235254682974194 
+		Act table SD: 8.80113629027525
+
+	league: 2
+		Our metric: 6.121046062561529
+		Sim table SD: 7.146618004343033 
+		Act table SD: 12.918591254467339
+
+
+year: 1912-13
+
+	league: 1
+		Our metric: 6.095561057031585
+		Sim table SD: 7.565291624253489 
+		Act table SD: 13.507035203922436
+
+	league: 2
+		Our metric: 3.45295060057337
+		Sim table SD: 7.095663622769895 
+		Act table SD: 10.248292540711356
+
+
+year: 1913-14
+
+	league: 1
+		Our metric: 1.4720050271653289
+		Sim table SD: 7.396286472953842 
+		Act table SD: 7.933473388119482
+
+	league: 2
+		Our metric: 5.466964962390009
+		Sim table SD: 7.149159942958334 
+		Act table SD: 12.495899327379362
+
+
+year: 1914-15
+
+	league: 1
+		Our metric: 3.0677779417682762
+		Sim table SD: 7.429638713288823 
+		Act table SD: 9.042123644365853
+
+	league: 2
+		Our metric: 5.569043706059418
+		Sim table SD: 7.232563401726942 
+		Act table SD: 12.555775563460823
+
+
+year: 1919-20
+
+	league: 1
+		Our metric: 4.382464712298943
+		Sim table SD: 7.793258543194521 
+		Act table SD: 11.225708393042277
+
+	league: 2
+		Our metric: 12.333507510912664
+		Sim table SD: 7.8054210004540385 
+		Act table SD: 19.045661975253427
+
+
+year: 1920-21
+
+	league: 1
+		Our metric: 5.863705096144028
+		Sim table SD: 7.76567858598503 
+		Act table SD: 13.211252404016987
+
+	league: 2
+		Our metric: 4.5648761160129485
+		Sim table SD: 7.485148959387172 
+		Act table SD: 11.290766358342452
+
+	league: 3
+		Our metric: 4.996819124566784
+		Sim table SD: 7.479277883117631 
+		Act table SD: 12.254616266318203
+
+
+year: 1921-22
+
+	league: 1
+		Our metric: 2.7314680950993107
+		Sim table SD: 7.794924101884009 
+		Act table SD: 10.16069236919845
+
+	league: 2
+		Our metric: 2.4032107500364828
+		Sim table SD: 7.595547744382235 
+		Act table SD: 9.20305824124435
+
+	league: 3
+		Our metric: 4.714448414183786
+		Sim table SD: 6.8798888601124935 
+		Act table SD: 11.168146668091353
+
+	league: 4
+		Our metric: 5.7427010393431335
+		Sim table SD: 7.463608532917884 
+		Act table SD: 12.422403781172118
+
+
+year: 1922-23
+
+	league: 1
+		Our metric: 4.107804534165313
+		Sim table SD: 7.457108500070129 
+		Act table SD: 11.243087867369374
+
+	league: 2
+		Our metric: 2.4076209022790342
+		Sim table SD: 7.620681123573541 
+		Act table SD: 9.407663484171028
+
+	league: 3
+		Our metric: 3.3082465672921066
+		Sim table SD: 6.968579933350839 
+		Act table SD: 9.942208004261428
+
+	league: 4
+		Our metric: 4.795213612646374
+		Sim table SD: 7.536697784153842 
+		Act table SD: 12.227948612613945
+
+
+year: 1923-24
+
+	league: 1
+		Our metric: 5.344919805504357
+		Sim table SD: 7.634351426446082 
+		Act table SD: 12.770705113301657
+
+	league: 2
+		Our metric: 3.098714931592244
+		Sim table SD: 7.388260925138872 
+		Act table SD: 9.920864565097553
+
+	league: 3
+		Our metric: 8.215203851285848
+		Sim table SD: 7.341408561814797 
+		Act table SD: 15.289763225901579
+
+	league: 4
+		Our metric: 5.592582002487353
+		Sim table SD: 7.2240119911261145 
+		Act table SD: 12.153375887157669
+
+
+year: 1924-25
+
+	league: 1
+		Our metric: 5.427622905940584
+		Sim table SD: 7.706815979329997 
+		Act table SD: 12.89796255292009
+
+	league: 2
+		Our metric: 4.595173193887058
+		Sim table SD: 7.504192546214493 
+		Act table SD: 10.710695974793738
+
+	league: 3
+		Our metric: 5.230055918352204
+		Sim table SD: 7.282029873781392 
+		Act table SD: 11.983545881784174
+
+	league: 4
+		Our metric: 6.008059038415894
+		Sim table SD: 7.339939592749153 
+		Act table SD: 13.062469107085144
+
+
+year: 1925-26
+
+	league: 1
+		Our metric: 2.177416244083799
+		Sim table SD: 7.772018742427518 
+		Act table SD: 8.427130527387114
+
+	league: 2
+		Our metric: 5.275250937590122
+		Sim table SD: 7.482074005899171 
+		Act table SD: 12.481060031268669
+
+	league: 3
+		Our metric: 8.268471244871856
+		Sim table SD: 7.526860379570867 
+		Act table SD: 15.160641191002247
+
+	league: 4
+		Our metric: 4.6766525470099385
+		Sim table SD: 7.553676344411091 
+		Act table SD: 11.447418417693662
+
+
+year: 1926-27
+
+	league: 1
+		Our metric: 2.139988785017341
+		Sim table SD: 7.817776716248936 
+		Act table SD: 9.335792670865631
+
+	league: 2
+		Our metric: 6.142016847465127
+		Sim table SD: 7.539875787197269 
+		Act table SD: 13.523548485377779
+
+	league: 3
+		Our metric: 8.190226775637147
+		Sim table SD: 7.647139778596205 
+		Act table SD: 15.700450064612955
+
+	league: 4
+		Our metric: 6.59516045362741
+		Sim table SD: 7.491413276418487 
+		Act table SD: 13.680610034245216
+
+
+year: 1927-28
+
+	league: 1
+		Our metric: 3.1055523516905827
+		Sim table SD: 7.877157895742781 
+		Act table SD: 6.321941327532258
+
+	league: 2
+		Our metric: 6.310280281197715
+		Sim table SD: 7.678259210129202 
+		Act table SD: 13.483690791299386
+
+	league: 3
+		Our metric: 7.202428580315494
+		Sim table SD: 7.418387380730297 
+		Act table SD: 14.408517338741916
+
+	league: 4
+		Our metric: 6.234966534137788
+		Sim table SD: 7.815278648739149 
+		Act table SD: 13.515295895410349
+
+
+year: 1928-29
+
+	league: 1
+		Our metric: 2.267750296900192
+		Sim table SD: 7.6685321040056476 
+		Act table SD: 8.7622405527429
+
+	league: 2
+		Our metric: 2.0813091596833506
+		Sim table SD: 7.701437998707377 
+		Act table SD: 8.725023384372745
+
+	league: 3
+		Our metric: 7.736250715712593
+		Sim table SD: 7.450193619565082 
+		Act table SD: 14.993662573079732
+
+	league: 4
+		Our metric: 5.132069651621157
+		Sim table SD: 7.76945319613563 
+		Act table SD: 12.350594725868248
+
+
+year: 1929-30
+
+	league: 1
+		Our metric: 2.8803764510910717
+		Sim table SD: 7.905596473724921 
+		Act table SD: 8.594275434725947
+
+	league: 2
+		Our metric: 4.439980006097488
+		Sim table SD: 7.6396834996750105 
+		Act table SD: 11.106546353427175
+
+	league: 3
+		Our metric: 7.706275075901103
+		Sim table SD: 7.5501165291209755 
+		Act table SD: 14.598836702211969
+
+	league: 4
+		Our metric: 8.696040504421852
+		Sim table SD: 7.598510888260164 
+		Act table SD: 15.927327210367586
+
+
+year: 1930-31
+
+	league: 1
+		Our metric: 6.216905514950197
+		Sim table SD: 7.976868444560071 
+		Act table SD: 13.58056766787818
+
+	league: 2
+		Our metric: 4.530366175246563
+		Sim table SD: 7.650893125226387 
+		Act table SD: 11.857016613600853
+
+	league: 3
+		Our metric: 7.032561524146738
+		Sim table SD: 7.581059181678752 
+		Act table SD: 14.406151119665676
+
+	league: 4
+		Our metric: 3.5325534609607057
+		Sim table SD: 7.45092760116273 
+		Act table SD: 10.771576463272783
+
+
+year: 1931-32
+
+	league: 1
+		Our metric: 2.5787195994770866
+		Sim table SD: 7.774462066506835 
+		Act table SD: 9.877346985454867
+
+	league: 2
+		Our metric: 4.102907328401964
+		Sim table SD: 7.8486566482308415 
+		Act table SD: 11.402479069291022
+
+	league: 3
+		Our metric: 12.042886853770872
+		Sim table SD: 7.538866628023338 
+		Act table SD: 18.772892361149513
+
+	league: 4
+		Our metric: 5.656132118811807
+		Sim table SD: 7.649055560455953 
+		Act table SD: 13.033332981054437
+
+
+year: 1932-33
+
+	league: 1
+		Our metric: 3.329493764414154
+		Sim table SD: 7.841994631048176 
+		Act table SD: 10.263169326679707
+
+	league: 2
+		Our metric: 2.6492313722354197
+		Sim table SD: 7.643096560089994 
+		Act table SD: 9.339443592183114
+
+	league: 3
+		Our metric: 5.2377141874190585
+		Sim table SD: 7.3380603861923195 
+		Act table SD: 12.371070625849327
+
+	league: 4
+		Our metric: 6.346531862507128
+		Sim table SD: 7.473201028031554 
+		Act table SD: 13.368660156506532
+
+
+year: 1933-34
+
+	league: 1
+		Our metric: 3.5361007415719157
+		Sim table SD: 7.601877729648704 
+		Act table SD: 9.640329372652323
+
+	league: 2
+		Our metric: 4.417036074317052
+		Sim table SD: 7.740047391984451 
+		Act table SD: 11.945122452835014
+
+	league: 3
+		Our metric: 8.645260921978636
+		Sim table SD: 7.563760588605085 
+		Act table SD: 15.933033931048222
+
+	league: 4
+		Our metric: 7.131662757156859
+		Sim table SD: 7.675949212172474 
+		Act table SD: 14.51844082423943
+
+
+year: 1934-35
+
+	league: 1
+		Our metric: 2.3608317967884282
+		Sim table SD: 7.7591683913956295 
+		Act table SD: 9.420392860857374
+
+	league: 2
+		Our metric: 6.884016335620573
+		Sim table SD: 7.5961348702443505 
+		Act table SD: 14.31442952275722
+
+	league: 3
+		Our metric: 5.983382271683039
+		Sim table SD: 7.61846159838278 
+		Act table SD: 13.383797407979966
+
+	league: 4
+		Our metric: 4.39163989354153
+		Sim table SD: 7.350698103266919 
+		Act table SD: 11.484088885090586
+
+
+year: 1935-36
+
+	league: 1
+		Our metric: 2.4422542306796653
+		Sim table SD: 7.779899833641023 
+		Act table SD: 7.516510751957821
+
+	league: 2
+		Our metric: 5.470900490944629
+		Sim table SD: 7.487682012854168 
+		Act table SD: 12.469881069372615
+
+	league: 3
+		Our metric: 5.515714879901212
+		Sim table SD: 7.089708224072365 
+		Act table SD: 12.147934558993425
+
+	league: 4
+		Our metric: 4.963733547167164
+		Sim table SD: 7.788961522246808 
+		Act table SD: 12.05565605743655
+
+
+year: 1936-37
+
+	league: 1
+		Our metric: 2.9861898877088415
+		Sim table SD: 7.727851921207839 
+		Act table SD: 10.444362629849733
+
+	league: 2
+		Our metric: 4.608476503337972
+		Sim table SD: 7.783651094276903 
+		Act table SD: 12.186566238863795
+
+	league: 3
+		Our metric: 5.078097890137426
+		Sim table SD: 7.560360048162471 
+		Act table SD: 12.152355823712359
+
+	league: 4
+		Our metric: 5.6381151589387155
+		Sim table SD: 7.557945140301142 
+		Act table SD: 13.030479209520733
+
+
+year: 1937-38
+
+	league: 1
+		Our metric: 2.4862776119404613
+		Sim table SD: 7.877882823250133 
+		Act table SD: 6.629043285122904
+
+	league: 2
+		Our metric: 3.335340435125299
+		Sim table SD: 7.651013757709572 
+		Act table SD: 9.738841888146354
+
+	league: 3
+		Our metric: 4.361878353728732
+		Sim table SD: 7.530995700552187 
+		Act table SD: 11.455627654505784
+
+	league: 4
+		Our metric: 5.021921788971375
+		Sim table SD: 7.603512625074639 
+		Act table SD: 12.317427014781243
+
+
+year: 1938-39
+
+	league: 1
+		Our metric: 4.077919138482272
+		Sim table SD: 7.717631640231187 
+		Act table SD: 11.35854431367065
+
+	league: 2
+		Our metric: 6.116546968525772
+		Sim table SD: 7.765694423829561 
+		Act table SD: 13.425029048708895
+
+	league: 3
+		Our metric: 7.064415124088797
+		Sim table SD: 7.64006539295821 
+		Act table SD: 14.326260347250082
+
+	league: 4
+		Our metric: 2.028792038717531
+		Sim table SD: 7.494589355904456 
+		Act table SD: 8.31855438807958
+
+
+year: 1939-40
+
+	league: 1
+		Our metric: 41.23346061645918
+		Sim table SD: 3.851966537845013 
+		Act table SD: 2.1169329131263668
+
+	league: 2
+		Our metric: 42.24918281996169
+		Sim table SD: 4.354202650437205 
+		Act table SD: 1.7703947358318588
+
+	league: 3
+		Our metric: 41.67173934782094
+		Sim table SD: 3.908792628154806 
+		Act table SD: 2.2690879953361245
+
+	league: 4
+		Our metric: 42.242323545769295
+		Sim table SD: 4.2023191186779965 
+		Act table SD: 1.8812910987795344
+
+
+year: 1946-47
+
+	league: 1
+		Our metric: 6.77052174033609
+		Sim table SD: 8.105435089601023 
+		Act table SD: 14.544318137425508
+
+	league: 2
+		Our metric: 5.429204114617704
+		Sim table SD: 7.857851741653165 
+		Act table SD: 13.006038012914942
+
+	league: 3
+		Our metric: 9.84437682823873
+		Sim table SD: 7.939079442258772 
+		Act table SD: 17.173398610487986
+
+	league: 4
+		Our metric: 5.881401162679149
+		Sim table SD: 7.907661933083247 
+		Act table SD: 12.998172153762349
+
+
+year: 1947-48
+
+	league: 1
+		Our metric: 3.5570995654018205
+		Sim table SD: 7.940947873792997 
+		Act table SD: 11.009012085897536
+
+	league: 2
+		Our metric: 4.036969711868724
+		Sim table SD: 7.935304547682011 
+		Act table SD: 11.476980194291759
+
+	league: 3
+		Our metric: 5.164930946471422
+		Sim table SD: 7.9737862224337555 
+		Act table SD: 12.509913424332622
+
+	league: 4
+		Our metric: 4.7533992908424825
+		Sim table SD: 7.922867614153664 
+		Act table SD: 11.537219683118154
+
+
+year: 1948-49
+
+	league: 1
+		Our metric: 4.11764532226854
+		Sim table SD: 7.968505195948061 
+		Act table SD: 10.864777422006954
+
+	league: 2
+		Our metric: 4.687567487999021
+		Sim table SD: 7.614947883375757 
+		Act table SD: 11.45211013072617
+
+	league: 3
+		Our metric: 6.238452874930391
+		Sim table SD: 7.769065147926568 
+		Act table SD: 12.890832157739402
+
+	league: 4
+		Our metric: 5.564006511008542
+		Sim table SD: 7.76172485463175 
+		Act table SD: 12.946249337195173
+
+
+year: 1949-50
+
+	league: 1
+		Our metric: 4.925252831535196
+		Sim table SD: 7.884992097660295 
+		Act table SD: 12.150570506620817
+
+	league: 2
+		Our metric: 4.004920575764494
+		Sim table SD: 7.807860495193079 
+		Act table SD: 10.977155090655208
+
+	league: 3
+		Our metric: 3.7754586596742237
+		Sim table SD: 7.951524722543668 
+		Act table SD: 11.161196801848211
+
+	league: 4
+		Our metric: 2.824649238079273
+		Sim table SD: 7.723752546447894 
+		Act table SD: 9.690243879608037
+
+
+year: 1950-51
+
+	league: 1
+		Our metric: 3.895952340104233
+		Sim table SD: 8.004687593596291 
+		Act table SD: 10.873806574584984
+
+	league: 2
+		Our metric: 3.47419566230804
+		Sim table SD: 7.983471848396049 
+		Act table SD: 10.9238536475182
+
+	league: 3
+		Our metric: 8.214156380400038
+		Sim table SD: 8.102981591052183 
+		Act table SD: 15.904609307437331
+
+	league: 4
+		Our metric: 7.7096275201853945
+		Sim table SD: 8.109537015401475 
+		Act table SD: 15.626499928006911
+
+
+year: 1951-52
+
+	league: 1
+		Our metric: 3.514248290239969
+		Sim table SD: 8.020916743553993 
+		Act table SD: 11.25851376654152
+
+	league: 2
+		Our metric: 1.4556437657364083
+		Sim table SD: 7.928642218678945 
+		Act table SD: 8.224133002108102
+
+	league: 3
+		Our metric: 7.537286627715131
+		Sim table SD: 7.989181286168432 
+		Act table SD: 15.277752525231657
+
+	league: 4
+		Our metric: 6.667204958476479
+		Sim table SD: 8.098915484559747 
+		Act table SD: 14.23293324964636
+
+
+year: 1952-53
+
+	league: 1
+		Our metric: 2.7903664878226366
+		Sim table SD: 8.005924480482568 
+		Act table SD: 9.68683182179817
+
+	league: 2
+		Our metric: 5.917377183116919
+		Sim table SD: 7.968832740098731 
+		Act table SD: 13.158678750022016
+
+	league: 3
+		Our metric: 4.345648738489265
+		Sim table SD: 7.902088951026213 
+		Act table SD: 11.418111222478474
+
+	league: 4
+		Our metric: 6.933813621185194
+		Sim table SD: 8.117454543810721 
+		Act table SD: 14.403896077874979
+
+
+year: 1953-54
+
+	league: 1
+		Our metric: 3.090572666851714
+		Sim table SD: 7.970696722997305 
+		Act table SD: 10.849172570041711
+
+	league: 2
+		Our metric: 4.756396023920173
+		Sim table SD: 7.822019114980733 
+		Act table SD: 12.178764881940483
+
+	league: 3
+		Our metric: 4.9095354498499475
+		Sim table SD: 7.869521300120839 
+		Act table SD: 12.337203784578668
+
+	league: 4
+		Our metric: 4.823324467280495
+		Sim table SD: 8.061488172512291 
+		Act table SD: 12.39175353029407
+
+
+year: 1954-55
+
+	league: 1
+		Our metric: 2.3603782054423545
+		Sim table SD: 8.09101736852982 
+		Act table SD: 8.087460960857149
+
+	league: 2
+		Our metric: 5.736791394150567
+		Sim table SD: 7.839151568640302 
+		Act table SD: 13.298309716738968
+
+	league: 3
+		Our metric: 5.979603895744267
+		Sim table SD: 8.277198933667114 
+		Act table SD: 13.883380852259615
+
+	league: 4
+		Our metric: 6.126521912961709
+		Sim table SD: 8.286237168743522 
+		Act table SD: 13.816694310386499
+
+
+year: 1955-56
+
+	league: 1
+		Our metric: 2.447591116327902
+		Sim table SD: 8.088745560579937 
+		Act table SD: 8.620200185591365
+
+	league: 2
+		Our metric: 4.662096772717382
+		Sim table SD: 7.865630618511112 
+		Act table SD: 11.71599175528548
+
+	league: 3
+		Our metric: 7.5159103739999455
+		Sim table SD: 7.967158560040921 
+		Act table SD: 15.253358009158363
+
+	league: 4
+		Our metric: 6.604378522364287
+		Sim table SD: 8.14730058056041 
+		Act table SD: 14.17738565070757
+
+
+year: 1956-57
+
+	league: 1
+		Our metric: 6.583952360233038
+		Sim table SD: 7.891350993203502 
+		Act table SD: 14.188591040074392
+
+	league: 2
+		Our metric: 5.728914433896625
+		Sim table SD: 8.060377262488176 
+		Act table SD: 13.539122986355853
+
+	league: 3
+		Our metric: 7.836061866992458
+		Sim table SD: 8.327780616706951 
+		Act table SD: 15.778358508483139
+
+	league: 4
+		Our metric: 3.557027158784895
+		Sim table SD: 7.973491121518261 
+		Act table SD: 10.76379928278115
+
+
+year: 1957-58
+
+	league: 1
+		Our metric: 5.556458568025304
+		Sim table SD: 8.059562079237985 
+		Act table SD: 12.927004216620682
+
+	league: 2
+		Our metric: 5.4029386322293504
+		Sim table SD: 8.045353283004241 
+		Act table SD: 13.07227208715689
+
+	league: 3
+		Our metric: 5.633421891562297
+		Sim table SD: 8.205442636407557 
+		Act table SD: 13.456656242255066
+
+	league: 4
+		Our metric: 5.286463515432601
+		Sim table SD: 8.157872250760134 
+		Act table SD: 13.006341935977062
+
+
+year: 1958-59
+
+	league: 1
+		Our metric: 5.706082603837609
+		Sim table SD: 8.093139579298013 
+		Act table SD: 13.522020607968104
+
+	league: 2
+		Our metric: 7.104380019012598
+		Sim table SD: 7.809168282503767 
+		Act table SD: 14.577308869757049
+
+	league: 3
+		Our metric: 4.8998040096858295
+		Sim table SD: 8.245967252997067 
+		Act table SD: 12.789902158430385
+
+	league: 4
+		Our metric: 6.06760386190463
+		Sim table SD: 8.36923110257232 
+		Act table SD: 14.141890098411725
+
+
+year: 1959-60
+
+	league: 1
+		Our metric: 2.8653615272454154
+		Sim table SD: 8.106484903438076 
+		Act table SD: 10.386836074395497
+
+	league: 2
+		Our metric: 4.654856227640119
+		Sim table SD: 7.907631577096325 
+		Act table SD: 12.158050082894947
+
+	league: 3
+		Our metric: 2.959464626414716
+		Sim table SD: 8.263030212333158 
+		Act table SD: 10.331653089199015
+
+	league: 4
+		Our metric: 6.380585523680408
+		Sim table SD: 8.070969742329432 
+		Act table SD: 14.25602942617614
+
+
+year: 1960-61
+
+	league: 1
+		Our metric: 6.98139273680077
+		Sim table SD: 8.054254797238722 
+		Act table SD: 14.134609654413687
+
+	league: 2
+		Our metric: 4.764083303981231
+		Sim table SD: 7.969398492912936 
+		Act table SD: 12.213662584131274
+
+	league: 3
+		Our metric: 5.906928724670151
+		Sim table SD: 8.154112564013158 
+		Act table SD: 13.280036709286613
+
+	league: 4
+		Our metric: 5.969429987444363
+		Sim table SD: 8.195384900352792 
+		Act table SD: 13.634871551364986
+
+
+year: 1961-62
+
+	league: 1
+		Our metric: 2.7589405657705917
+		Sim table SD: 7.956312161339428 
+		Act table SD: 10.45612636268311
+
+	league: 2
+		Our metric: 4.12093790626269
+		Sim table SD: 7.939932143812508 
+		Act table SD: 10.786048533879617
+
+	league: 3
+		Our metric: 7.1204476772882765
+		Sim table SD: 8.387021821834647 
+		Act table SD: 15.296150568761481
+
+	league: 4
+		Our metric: 8.213317830917457
+		Sim table SD: 8.068230792637499 
+		Act table SD: 15.428542723003865
+
+
+year: 1962-63
+
+	league: 1
+		Our metric: 5.376321089234296
+		Sim table SD: 8.140333614500815 
+		Act table SD: 13.318802343595635
+
+	league: 2
+		Our metric: 2.6882154016102473
+		Sim table SD: 7.772890959068592 
+		Act table SD: 10.168111715936671
+
+	league: 3
+		Our metric: 2.806049788700597
+		Sim table SD: 8.399844566600954 
+		Act table SD: 10.678053817682946
+
+	league: 4
+		Our metric: 5.667492225402696
+		Sim table SD: 8.29161808601765 
+		Act table SD: 13.604469751600838
+
+
+year: 1963-64
+
+	league: 1
+		Our metric: 4.600282940903052
+		Sim table SD: 7.976772549587411 
+		Act table SD: 12.456867733062282
+
+	league: 2
+		Our metric: 5.877877245153298
+		Sim table SD: 7.919320706113686 
+		Act table SD: 13.124011178808392
+
+	league: 3
+		Our metric: 4.334705598423034
+		Sim table SD: 8.234687615402535 
+		Act table SD: 12.213380640374174
+
+	league: 4
+		Our metric: 4.665816653241604
+		Sim table SD: 8.169648160582456 
+		Act table SD: 12.532665651541707
+
+
+year: 1964-65
+
+	league: 1
+		Our metric: 5.8748126198357875
+		Sim table SD: 7.898614132678096 
+		Act table SD: 13.037137038044829
+
+	league: 2
+		Our metric: 2.5919448822703126
+		Sim table SD: 7.994114633707696 
+		Act table SD: 9.688538000908153
+
+	league: 3
+		Our metric: 6.5168395586613395
+		Sim table SD: 8.260633016082297 
+		Act table SD: 14.378743473923196
+
+	league: 4
+		Our metric: 9.56396727958644
+		Sim table SD: 8.141235572751942 
+		Act table SD: 17.315495629316793
+
+
+year: 1965-66
+
+	league: 1
+		Our metric: 6.005399044344863
+		Sim table SD: 7.957522225999292 
+		Act table SD: 13.387193213992258
+
+	league: 2
+		Our metric: 4.643966339632142
+		Sim table SD: 7.8852511271894805 
+		Act table SD: 11.960679380355842
+
+	league: 3
+		Our metric: 6.607606525815531
+		Sim table SD: 8.2845360763292 
+		Act table SD: 14.591128868825285
+
+	league: 4
+		Our metric: 4.490753862103778
+		Sim table SD: 8.196994681318 
+		Act table SD: 11.784450088522963
+
+
+year: 1966-67
+
+	league: 1
+		Our metric: 6.04298179709322
+		Sim table SD: 7.974433890112112 
+		Act table SD: 13.741112830414494
+
+	league: 2
+		Our metric: 4.858153451111385
+		Sim table SD: 7.750386185659364 
+		Act table SD: 12.0773163512402
+
+	league: 3
+		Our metric: 3.825951836907169
+		Sim table SD: 8.085739812639801 
+		Act table SD: 11.435735291911346
+
+	league: 4
+		Our metric: 5.126755138486721
+		Sim table SD: 8.175641340796044 
+		Act table SD: 12.991383362316219
+
+
+year: 1967-68
+
+	league: 1
+		Our metric: 5.824937994207632
+		Sim table SD: 7.8829763849671926 
+		Act table SD: 13.119996094536813
+
+	league: 2
+		Our metric: 5.520875474053006
+		Sim table SD: 7.909307437997358 
+		Act table SD: 12.459521235644957
+
+	league: 3
+		Our metric: 2.972036549236903
+		Sim table SD: 8.02160978060029 
+		Act table SD: 10.421582173547355
+
+	league: 4
+		Our metric: 7.879974413029524
+		Sim table SD: 8.169542136633009 
+		Act table SD: 15.863786503298078
+
+
+year: 1968-69
+
+	league: 1
+		Our metric: 9.004231530483068
+		Sim table SD: 7.858510509616441 
+		Act table SD: 16.424885372632964
+
+	league: 2
+		Our metric: 4.841562416861279
+		Sim table SD: 7.790923739776194 
+		Act table SD: 12.080395292093018
+
+	league: 3
+		Our metric: 5.246678020423971
+		Sim table SD: 8.011442039705184 
+		Act table SD: 11.53587399761669
+
+	league: 4
+		Our metric: 5.046840323410282
+		Sim table SD: 8.14731634752614 
+		Act table SD: 11.97189996988318
+
+
+year: 1969-70
+
+	league: 1
+		Our metric: 8.407279651371402
+		Sim table SD: 8.075635443231912 
+		Act table SD: 16.154791014657935
+
+	league: 2
+		Our metric: 5.68387386703502
+		Sim table SD: 7.695119536417355 
+		Act table SD: 13.038404810405298
+
+	league: 3
+		Our metric: 5.5495477330739895
+		Sim table SD: 8.225206686760556 
+		Act table SD: 13.216086052820462
+
+	league: 4
+		Our metric: 6.63332821189082
+		Sim table SD: 7.888686894323204 
+		Act table SD: 14.360439485692012
+
+
+year: 1970-71
+
+	league: 1
+		Our metric: 8.459660870593723
+		Sim table SD: 7.8857595929268625 
+		Act table SD: 15.92109936400994
+
+	league: 2
+		Our metric: 6.872487322651093
+		Sim table SD: 7.709227700866128 
+		Act table SD: 14.307210804057355
+
+	league: 3
+		Our metric: 2.932413454250042
+		Sim table SD: 8.370240985761535 
+		Act table SD: 10.610529361598003
+
+	league: 4
+		Our metric: 7.676779538539149
+		Sim table SD: 8.101587611902579 
+		Act table SD: 15.313166085286072
+
+
+year: 1971-72
+
+	league: 1
+		Our metric: 8.666675555356747
+		Sim table SD: 7.757607984189692 
+		Act table SD: 16.063214482292523
+
+	league: 2
+		Our metric: 5.785090943733963
+		Sim table SD: 7.716521592639357 
+		Act table SD: 12.864600028150798
+
+	league: 3
+		Our metric: 8.395989233457444
+		Sim table SD: 8.3014857429216 
+		Act table SD: 16.205066080293122
+
+	league: 4
+		Our metric: 5.420221732088088
+		Sim table SD: 8.068568922466811 
+		Act table SD: 13.24213603111925
+
+
+year: 1972-73
+
+	league: 1
+		Our metric: 4.592562777321216
+		Sim table SD: 7.793601366924595 
+		Act table SD: 11.980700734207687
+
+	league: 2
+		Our metric: 5.431055384629132
+		Sim table SD: 7.7654367782783495 
+		Act table SD: 12.477169232887551
+
+	league: 3
+		Our metric: 2.7829657816197932
+		Sim table SD: 8.039349398319736 
+		Act table SD: 10.25474145077399
+
+	league: 4
+		Our metric: 5.387539021513751
+		Sim table SD: 8.10043436067457 
+		Act table SD: 13.223965512995296
+
+
+year: 1973-74
+
+	league: 1
+		Our metric: 4.222023949159067
+		Sim table SD: 7.905997849342085 
+		Act table SD: 10.786910494508097
+
+	league: 2
+		Our metric: 4.953587611748956
+		Sim table SD: 7.864905885568052 
+		Act table SD: 11.865726043755373
+
+	league: 3
+		Our metric: 7.1627408947273805
+		Sim table SD: 8.179248630829763 
+		Act table SD: 14.600941750448838
+
+	league: 4
+		Our metric: 5.788753158064351
+		Sim table SD: 7.911921253079467 
+		Act table SD: 12.927616326643086
+
+
+year: 1974-75
+
+	league: 1
+		Our metric: 2.841986517145421
+		Sim table SD: 7.744789899993501 
+		Act table SD: 10.016102737571474
+
+	league: 2
+		Our metric: 6.409416694492283
+		Sim table SD: 7.640173041720848 
+		Act table SD: 13.666103932511813
+
+	league: 3
+		Our metric: 2.5528433494177962
+		Sim table SD: 7.971465265070293 
+		Act table SD: 10.128257363545924
+
+	league: 4
+		Our metric: 6.704273975731202
+		Sim table SD: 8.028242700577444 
+		Act table SD: 14.513403766480451
+
+
+year: 1975-76
+
+	league: 1
+		Our metric: 6.336216730395628
+		Sim table SD: 7.992408702498175 
+		Act table SD: 13.879126964231439
+
+	league: 2
+		Our metric: 4.438417679759308
+		Sim table SD: 7.809662048777509 
+		Act table SD: 11.760787205900774
+
+	league: 3
+		Our metric: 3.024754466619288
+		Sim table SD: 8.125641534929207 
+		Act table SD: 10.451940277075618
+
+	league: 4
+		Our metric: 9.7533157225291
+		Sim table SD: 8.08238349058549 
+		Act table SD: 17.474932443042203
+
+
+year: 1976-77
+
+	league: 1
+		Our metric: 4.535190764755906
+		Sim table SD: 7.631466509846525 
+		Act table SD: 11.122997544734302
+
+	league: 2
+		Our metric: 4.896781842097002
+		Sim table SD: 7.888628676170268 
+		Act table SD: 12.121287878551138
+
+	league: 3
+		Our metric: 6.9787868603122325
+		Sim table SD: 8.197221818392531 
+		Act table SD: 14.664239856042848
+
+	league: 4
+		Our metric: 9.352190166836143
+		Sim table SD: 7.965046613520573 
+		Act table SD: 17.0676757514184
+
+
+year: 1977-78
+
+	league: 1
+		Our metric: 7.97188781109765
+		Sim table SD: 7.890031425845303 
+		Act table SD: 15.690182222709149
+
+	league: 2
+		Our metric: 5.476256178017307
+		Sim table SD: 7.709775357694653 
+		Act table SD: 11.746020954538723
+
+	league: 3
+		Our metric: 4.458476584925991
+		Sim table SD: 8.131280362378194 
+		Act table SD: 11.789826122551595
+
+	league: 4
+		Our metric: 6.872150227548871
+		Sim table SD: 8.113157476781499 
+		Act table SD: 14.432253135098328
+
+
+year: 1978-79
+
+	league: 1
+		Our metric: 9.683235104597488
+		Sim table SD: 7.9436674149916415 
+		Act table SD: 17.366967790835968
+
+	league: 2
+		Our metric: 4.7588840555896565
+		Sim table SD: 7.746841113619759 
+		Act table SD: 11.276392366062314
+
+	league: 3
+		Our metric: 6.489577538253163
+		Sim table SD: 8.211529353999609 
+		Act table SD: 14.128133870637928
+
+	league: 4
+		Our metric: 7.163816781227728
+		Sim table SD: 8.28199837236947 
+		Act table SD: 15.183084063083713
+
+
+year: 1979-80
+
+	league: 1
+		Our metric: 5.847142860950434
+		Sim table SD: 7.741370421314303 
+		Act table SD: 13.341354336692737
+
+	league: 2
+		Our metric: 4.851991760654026
+		Sim table SD: 7.8791193236373624 
+		Act table SD: 12.364304794765099
+
+	league: 3
+		Our metric: 3.5760801340294397
+		Sim table SD: 8.081258248148234 
+		Act table SD: 11.097735004144864
+
+	league: 4
+		Our metric: 7.653646415816016
+		Sim table SD: 8.208470386228925 
+		Act table SD: 15.288373850740307
+
+
+year: 1980-81
+
+	league: 1
+		Our metric: 6.111588824073937
+		Sim table SD: 7.848623347335961 
+		Act table SD: 13.408089330852933
+
+	league: 2
+		Our metric: 5.918884185384946
+		Sim table SD: 7.682278840410453 
+		Act table SD: 12.55442696277438
+
+	league: 3
+		Our metric: 4.564395505796287
+		Sim table SD: 8.26270675821321 
+		Act table SD: 12.07010770457331
+
+	league: 4
+		Our metric: 5.517808993009212
+		Sim table SD: 8.138533895746962 
+		Act table SD: 13.051181300301263
+
+
+year: 1981-82
+
+	league: 1
+		Our metric: 6.533641630403787
+		Sim table SD: 8.07595585379708 
+		Act table SD: 14.08980934124828
+
+	league: 2
+		Our metric: 5.49585553766737
+		Sim table SD: 7.879755060798642 
+		Act table SD: 12.786631060771931
+
+	league: 3
+		Our metric: 3.482498671930831
+		Sim table SD: 8.324399063646174 
+		Act table SD: 10.969575981879256
+
+	league: 4
+		Our metric: 9.480705924841955
+		Sim table SD: 8.389478950182518 
+		Act table SD: 17.461863207191456
+
+
+year: 1982-83
+
+	league: 1
+		Our metric: 3.204079133059777
+		Sim table SD: 7.639291511219378 
+		Act table SD: 10.446736213797166
+
+	league: 2
+		Our metric: 4.516979692831766
+		Sim table SD: 7.905813470358328 
+		Act table SD: 11.048353529032248
+
+	league: 3
+		Our metric: 5.679312491402459
+		Sim table SD: 8.199019450921995 
+		Act table SD: 13.458204333747089
+
+	league: 4
+		Our metric: 8.435520777739017
+		Sim table SD: 8.295417331671581 
+		Act table SD: 16.038798444882197
+
+
+year: 1983-84
+
+	league: 1
+		Our metric: 4.874911999205731
+		Sim table SD: 7.908063521045626 
+		Act table SD: 12.160089168877066
+
+	league: 2
+		Our metric: 8.222072034800874
+		Sim table SD: 7.7909513126043795 
+		Act table SD: 15.737582012599834
+
+	league: 3
+		Our metric: 7.048001809023605
+		Sim table SD: 8.108822355499937 
+		Act table SD: 15.03306540781206
+
+	league: 4
+		Our metric: 6.999742319661965
+		Sim table SD: 8.199993447554123 
+		Act table SD: 14.933882058370935
+
+
+year: 1984-85
+
+	league: 1
+		Our metric: 7.596183796665748
+		Sim table SD: 7.9259996084650695 
+		Act table SD: 14.821039880537933
+
+	league: 2
+		Our metric: 7.382247320430277
+		Sim table SD: 7.936017150225778 
+		Act table SD: 15.07536165156975
+
+	league: 3
+		Our metric: 8.501304272482743
+		Sim table SD: 8.360582241486933 
+		Act table SD: 16.557140118054473
+
+	league: 4
+		Our metric: 6.232879136749991
+		Sim table SD: 8.31381775478163 
+		Act table SD: 14.037647792830377
+
+
+year: 1985-86
+
+	league: 1
+		Our metric: 10.081329735073284
+		Sim table SD: 8.001574883336176 
+		Act table SD: 17.84529477073846
+
+	league: 2
+		Our metric: 3.916707128095325
+		Sim table SD: 7.931669884521468 
+		Act table SD: 11.321375964034067
+
+	league: 3
+		Our metric: 6.730393989210438
+		Sim table SD: 8.267316956949616 
+		Act table SD: 14.601595708080067
+
+	league: 4
+		Our metric: 5.888825498348549
+		Sim table SD: 8.302975555569756 
+		Act table SD: 13.387390418682134
+
+
+year: 1986-87
+
+	league: 1
+		Our metric: 5.180575871815445
+		Sim table SD: 7.7962090644658515 
+		Act table SD: 12.705256932427941
+
+	league: 2
+		Our metric: 3.821667246824943
+		Sim table SD: 7.859345526660476 
+		Act table SD: 10.68868251396296
+
+	league: 3
+		Our metric: 9.05605509452101
+		Sim table SD: 8.369487164757569 
+		Act table SD: 17.03183294109396
+
+	league: 4
+		Our metric: 6.100697518180468
+		Sim table SD: 8.429328437955812 
+		Act table SD: 13.397501840102711
+
+
+year: 1987-88
+
+	league: 1
+		Our metric: 8.161516350706966
+		Sim table SD: 7.733437186729354 
+		Act table SD: 15.495445896695422
+
+	league: 2
+		Our metric: 5.776153511750216
+		Sim table SD: 8.173324105980312 
+		Act table SD: 13.570651085650564
+
+	league: 3
+		Our metric: 6.227224840033747
+		Sim table SD: 8.389520382492904 
+		Act table SD: 14.223842952357613
+
+	league: 4
+		Our metric: 5.95648805925102
+		Sim table SD: 8.411103096833111 
+		Act table SD: 13.934120791145103
+
+
+year: 1988-89
+
+	league: 1
+		Our metric: 4.6544057408008594
+		Sim table SD: 7.653839183050556 
+		Act table SD: 11.804236527620073
+
+	league: 2
+		Our metric: 7.814918916192713
+		Sim table SD: 8.328577234438065 
+		Act table SD: 15.863950660398421
+
+	league: 3
+		Our metric: 4.868440651276341
+		Sim table SD: 8.27889653465951 
+		Act table SD: 12.796212547295218
+
+	league: 4
+		Our metric: 3.678225336354476
+		Sim table SD: 8.31503201276242 
+		Act table SD: 11.260103487781787
+
+
+year: 1989-90
+
+	league: 1
+		Our metric: 4.792948445372638
+		Sim table SD: 7.5256394113723 
+		Act table SD: 11.893170309047122
+
+	league: 2
+		Our metric: 4.750575364276065
+		Sim table SD: 8.396163245689301 
+		Act table SD: 12.728945033531517
+
+	league: 3
+		Our metric: 6.0538890771415135
+		Sim table SD: 8.380959426046738 
+		Act table SD: 13.744695946679455
+
+	league: 4
+		Our metric: 3.130109755796645
+		Sim table SD: 8.416400837386226 
+		Act table SD: 11.03333018630368
+
+
+year: 1990-91
+
+	league: 1
+		Our metric: 6.916044830681768
+		Sim table SD: 7.495458092071492 
+		Act table SD: 14.1218801864341
+
+	league: 2
+		Our metric: 4.898895938542345
+		Sim table SD: 8.356982424479277 
+		Act table SD: 12.27456437335173
+
+	league: 3
+		Our metric: 5.993381088751155
+		Sim table SD: 8.359250203014456 
+		Act table SD: 14.10353580568441
+
+	league: 4
+		Our metric: 5.838570633439888
+		Sim table SD: 8.220308266620169 
+		Act table SD: 13.559987606516788
+
+
+year: 1991-92
+
+	league: 1
+		Our metric: 4.552508399473057
+		Sim table SD: 8.003547268823837 
+		Act table SD: 12.016259645487386
+
+	league: 2
+		Our metric: 3.049226001517981
+		Sim table SD: 8.383148078532146 
+		Act table SD: 11.060440015358038
+
+	league: 3
+		Our metric: 3.636787043531694
+		Sim table SD: 8.359030844525114 
+		Act table SD: 11.589926181339072
+
+	league: 4
+		Our metric: 7.193414797892963
+		Sim table SD: 7.98232456770158 
+		Act table SD: 14.877530342463062
+
+
+year: 1992-93
+
+	league: 1
+		Our metric: 3.4863397190124252
+		Sim table SD: 7.980597140503225 
+		Act table SD: 10.13503864148839
+
+	league: 2
+		Our metric: 6.472810710966296
+		Sim table SD: 8.320773561377706 
+		Act table SD: 14.063287015014188
+
+	league: 3
+		Our metric: 7.805106087790649
+		Sim table SD: 8.327480323599124 
+		Act table SD: 15.939773802939893
+
+
+year: 1993-94
+
+	league: 1
+		Our metric: 7.430737740200252
+		Sim table SD: 8.063436452374857 
+		Act table SD: 15.098847857090627
+
+	league: 2
+		Our metric: 3.423777640754921
+		Sim table SD: 8.302553982895196 
+		Act table SD: 11.298967504452195
+
+	league: 3
+		Our metric: 6.533898150542804
+		Sim table SD: 8.439043663626656 
+		Act table SD: 14.657193910613769
+
+	league: 4
+		Our metric: 3.2212619986018467
+		Sim table SD: 8.117536868532442 
+		Act table SD: 11.157493868315036
+
+
+year: 1994-95
+
+	league: 1
+		Our metric: 8.40911875990474
+		Sim table SD: 8.009823859894105 
+		Act table SD: 15.948522561692869
+
+	league: 2
+		Our metric: 3.120579019455631
+		Sim table SD: 8.259747855648433 
+		Act table SD: 10.965143637910085
+
+	league: 3
+		Our metric: 8.777630332270778
+		Sim table SD: 8.449715400779287 
+		Act table SD: 16.955773762612218
+
+	league: 4
+		Our metric: 7.813286804016489
+		Sim table SD: 8.010421271332417 
+		Act table SD: 15.526303993625763
+
+
+year: 1995-96
+
+	league: 1
+		Our metric: 7.602062233367995
+		Sim table SD: 7.51967505880407 
+		Act table SD: 14.778024225179767
+
+	league: 2
+		Our metric: 2.5762388120410478
+		Sim table SD: 8.4435051777979 
+		Act table SD: 9.44639481495454
+
+	league: 3
+		Our metric: 6.10097228931586
+		Sim table SD: 8.277640499222892 
+		Act table SD: 14.165134721091313
+
+	league: 4
+		Our metric: 6.406677395499169
+		Sim table SD: 8.28116230226101 
+		Act table SD: 14.327942300119565
+
+
+year: 1996-97
+
+	league: 1
+		Our metric: 5.058588063877113
+		Sim table SD: 7.57534381001945 
+		Act table SD: 11.603770938793993
+
+	league: 2
+		Our metric: 4.7093665975372945
+		Sim table SD: 8.373359683477648 
+		Act table SD: 12.600429886846454
+
+	league: 3
+		Our metric: 5.034461221587337
+		Sim table SD: 8.259396681352127 
+		Act table SD: 12.841920828114286
+
+	league: 4
+		Our metric: 4.045962267083898
+		Sim table SD: 8.358807743266313 
+		Act table SD: 11.574637023346446
+
+
+year: 1997-98
+
+	league: 1
+		Our metric: 4.8623427429583765
+		Sim table SD: 7.665118076553029 
+		Act table SD: 12.115589131362949
+
+	league: 2
+		Our metric: 8.151954504902488
+		Sim table SD: 8.322400259323564 
+		Act table SD: 15.582887694162752
+
+	league: 3
+		Our metric: 3.290651107050599
+		Sim table SD: 8.328153605954622 
+		Act table SD: 11.038757478387986
+
+	league: 4
+		Our metric: 7.984123514304288
+		Sim table SD: 8.289798244994163 
+		Act table SD: 15.635607510494186
+
+
+year: 1998-99
+
+	league: 1
+		Our metric: 6.72421012089896
+		Sim table SD: 7.528952114836432 
+		Act table SD: 13.645054048995188
+
+	league: 2
+		Our metric: 8.272423705198698
+		Sim table SD: 8.452437481180437 
+		Act table SD: 15.934708361170454
+
+	league: 3
+		Our metric: 7.055799550133681
+		Sim table SD: 8.400825710801522 
+		Act table SD: 14.671164083178796
+
+	league: 4
+		Our metric: 2.9054815435655414
+		Sim table SD: 8.442373915749844 
+		Act table SD: 10.49727147087915
+
+
+year: 1999-00
+
+	league: 1
+		Our metric: 8.261951007480011
+		Sim table SD: 7.587986309127081 
+		Act table SD: 15.656947339759434
+
+	league: 2
+		Our metric: 7.501446921538982
+		Sim table SD: 8.36328504494828 
+		Act table SD: 15.49142908191494
+
+	league: 3
+		Our metric: 8.415884138540248
+		Sim table SD: 8.50540235020595 
+		Act table SD: 16.552892916009842
+
+	league: 4
+		Our metric: 5.844902797167231
+		Sim table SD: 8.36458020703553 
+		Act table SD: 13.887381862683837
+
+
+year: 2000-01
+
+	league: 1
+		Our metric: 6.25088955669511
+		Sim table SD: 7.53741775062919 
+		Act table SD: 13.617910999856035
+
+	league: 2
+		Our metric: 8.000114298662655
+		Sim table SD: 8.394640641401148 
+		Act table SD: 15.89986023698182
+
+	league: 3
+		Our metric: 7.785196566775518
+		Sim table SD: 8.396402472024686 
+		Act table SD: 15.907228877323528
+
+	league: 4
+		Our metric: 5.97873999406787
+		Sim table SD: 8.246555538105321 
+		Act table SD: 13.539999897423273
+
+
+year: 2001-02
+
+	league: 1
+		Our metric: 9.113666770296136
+		Sim table SD: 7.694532702510269 
+		Act table SD: 16.26491623095551
+
+	league: 2
+		Our metric: 7.72251238803366
+		Sim table SD: 8.470091100044648 
+		Act table SD: 15.821047865282361
+
+	league: 3
+		Our metric: 6.772682441864031
+		Sim table SD: 8.373178679963615 
+		Act table SD: 14.909914672980378
+
+	league: 4
+		Our metric: 8.017048714042675
+		Sim table SD: 8.264219668076487 
+		Act table SD: 15.811168696701568
+
+
+year: 2002-03
+
+	league: 1
+		Our metric: 7.707342379186226
+		Sim table SD: 7.674463567409777 
+		Act table SD: 14.934858553063032
+
+	league: 2
+		Our metric: 6.287152117612552
+		Sim table SD: 8.443992375828838 
+		Act table SD: 14.374396122581599
+
+	league: 3
+		Our metric: 8.050145658620098
+		Sim table SD: 8.462239572453456 
+		Act table SD: 15.769828787910159
+
+	league: 4
+		Our metric: 4.408813195369777
+		Sim table SD: 8.446245677218403 
+		Act table SD: 12.225244260227369
+
+
+year: 2003-04
+
+	league: 1
+		Our metric: 7.93951532840639
+		Sim table SD: 7.650568027767611 
+		Act table SD: 14.793241700181877
+
+	league: 2
+		Our metric: 6.2696901804103
+		Sim table SD: 8.429744770812558 
+		Act table SD: 14.336663857242225
+
+	league: 3
+		Our metric: 5.100731275186595
+		Sim table SD: 8.366243315048711 
+		Act table SD: 13.165348035235866
+
+	league: 4
+		Our metric: 6.148204321181916
+		Sim table SD: 8.415313292902905 
+		Act table SD: 13.64117286827721
+
+
+year: 2004-05
+
+	league: 1
+		Our metric: 9.815938752865158
+		Sim table SD: 7.59628149820687 
+		Act table SD: 16.650825805346713
+
+	league: 2
+		Our metric: 6.3250595583493645
+		Sim table SD: 8.420667311574672 
+		Act table SD: 14.411367041332339
+
+	league: 3
+		Our metric: 6.452516130678533
+		Sim table SD: 8.524772347481715 
+		Act table SD: 14.522910540093385
+
+	league: 4
+		Our metric: 4.357696706212277
+		Sim table SD: 8.373376600123752 
+		Act table SD: 12.349932523432399
+
+
+year: 2005-06
+
+	league: 1
+		Our metric: 10.794279378448568
+		Sim table SD: 7.57697445290665 
+		Act table SD: 18.13911519341558
+
+	league: 2
+		Our metric: 8.185433751997103
+		Sim table SD: 8.378342884149287 
+		Act table SD: 15.863950660398423
+
+	league: 3
+		Our metric: 2.554347690703049
+		Sim table SD: 8.448777962978335 
+		Act table SD: 9.979057932601766
+
+	league: 4
+		Our metric: 4.1112593366672145
+		Sim table SD: 8.46530743313555 
+		Act table SD: 11.131474395704382
+
+	league: 5
+		Our metric: 7.019245261810884
+		Sim table SD: 8.06164230609915 
+		Act table SD: 14.7855888067955
+
+
+year: 2006-07
+
+	league: 1
+		Our metric: 8.360957367431077
+		Sim table SD: 7.4777834850977065 
+		Act table SD: 15.449595463959565
+
+	league: 2
+		Our metric: 5.338479348091551
+		Sim table SD: 8.370029095263384 
+		Act table SD: 13.457688323036761
+
+	league: 3
+		Our metric: 5.482422932274868
+		Sim table SD: 8.462251519308657 
+		Act table SD: 13.668635528911516
+
+	league: 4
+		Our metric: 5.808507991156879
+		Sim table SD: 8.378987443384128 
+		Act table SD: 13.892194051176926
+
+	league: 5
+		Our metric: 5.013154279825562
+		Sim table SD: 8.528081358648159 
+		Act table SD: 13.105077472321769
+
+
+year: 2007-08
+
+	league: 1
+		Our metric: 12.028509880695944
+		Sim table SD: 7.568980626709253 
+		Act table SD: 19.235384061671343
+
+	league: 2
+		Our metric: 2.694985165388979
+		Sim table SD: 8.444023134306795 
+		Act table SD: 10.385536818094671
+
+	league: 3
+		Our metric: 6.17333608148787
+		Sim table SD: 8.380286674587204 
+		Act table SD: 14.281884407256005
+
+	league: 4
+		Our metric: 7.919335593975041
+		Sim table SD: 8.565396896816866 
+		Act table SD: 15.991317088414643
+
+	league: 5
+		Our metric: 10.738240663240262
+		Sim table SD: 8.575293862696322 
+		Act table SD: 19.08165021689686
+
+
+year: 2008-09
+
+	league: 1
+		Our metric: 10.795726876871239
+		Sim table SD: 7.654573110892598 
+		Act table SD: 17.77434949583247
+
+	league: 2
+		Our metric: 4.74331719808687
+		Sim table SD: 8.396734408945836 
+		Act table SD: 12.761432782672433
+
+	league: 3
+		Our metric: 7.7345832736267495
+		Sim table SD: 8.513327952882662 
+		Act table SD: 16.061027277924108
+
+	league: 4
+		Our metric: 5.027632589831255
+		Sim table SD: 8.444923598328005 
+		Act table SD: 13.078820877875634
+
+	league: 5
+		Our metric: 8.354193986655245
+		Sim table SD: 8.477938536365365 
+		Act table SD: 16.434001000635508
+
+
+year: 2009-10
+
+	league: 1
+		Our metric: 10.54211000464328
+		Sim table SD: 7.4519600326021616 
+		Act table SD: 17.68502191121063
+
+	league: 2
+		Our metric: 6.927360112264989
+		Sim table SD: 8.376963972767323 
+		Act table SD: 14.663588692176733
+
+	league: 3
+		Our metric: 8.865357021857607
+		Sim table SD: 8.42204054341527 
+		Act table SD: 16.76968163747369
+
+	league: 4
+		Our metric: 5.3704417804000695
+		Sim table SD: 8.466975248231606 
+		Act table SD: 13.57176143075516
+
+	league: 5
+		Our metric: 8.708020728041475
+		Sim table SD: 8.189256545467716 
+		Act table SD: 16.53877839885026
+
+
+year: 2010-11
+
+	league: 1
+		Our metric: 5.699141014223108
+		Sim table SD: 7.618229063240354 
+		Act table SD: 12.455821931932071
+
+	league: 2
+		Our metric: 4.987353481557127
+		Sim table SD: 8.59869357325092 
+		Act table SD: 13.303090701871584
+
+	league: 3
+		Our metric: 6.207057344265477
+		Sim table SD: 8.539659494150904 
+		Act table SD: 14.24335858879109
+
+	league: 4
+		Our metric: 3.9491494653912507
+		Sim table SD: 8.536030683308777 
+		Act table SD: 11.86029791643813
+
+	league: 5
+		Our metric: 8.779063738520184
+		Sim table SD: 8.549791261158076 
+		Act table SD: 17.070472801497523
+
+
+year: 2011-12
+
+	league: 1
+		Our metric: 9.699854970565282
+		Sim table SD: 7.689996555753455 
+		Act table SD: 16.99786751330884
+
+	league: 2
+		Our metric: 5.728140899686971
+		Sim table SD: 8.430970564515228 
+		Act table SD: 13.934307681243283
+
+	league: 3
+		Our metric: 8.792108402804567
+		Sim table SD: 8.548230527993628 
+		Act table SD: 16.728998027377493
+
+	league: 4
+		Our metric: 6.978612030697795
+		Sim table SD: 8.534918094115719 
+		Act table SD: 15.223280326161275
+
+	league: 5
+		Our metric: 10.807195490736717
+		Sim table SD: 8.565415355170888 
+		Act table SD: 19.17567722981961
+
+
+year: 2012-13
+
+	league: 1
+		Our metric: 10.134338426853526
+		Sim table SD: 7.792869421945937 
+		Act table SD: 17.367786272291585
+
+	league: 2
+		Our metric: 2.452586466365661
+		Sim table SD: 8.545152764932975 
+		Act table SD: 9.740290749710137
+
+	league: 3
+		Our metric: 4.5983309698556205
+		Sim table SD: 8.470276227683716 
+		Act table SD: 12.734399497249784
+
+	league: 4
+		Our metric: 2.5148294922320282
+		Sim table SD: 8.519848863157238 
+		Act table SD: 9.97601289761262
+
+	league: 5
+		Our metric: 6.804173893647927
+		Sim table SD: 8.610768009103325 
+		Act table SD: 14.97961577908088
+
+
+year: 2013-14
+
+	league: 1
+		Our metric: 11.692394241557203
+		Sim table SD: 7.719916261851549 
+		Act table SD: 18.785366645343924
+
+	league: 2
+		Our metric: 8.094238738139614
+		Sim table SD: 8.513881452597804 
+		Act table SD: 16.347782724271816
+
+	league: 3
+		Our metric: 8.498304389700337
+		Sim table SD: 8.658227463260337 
+		Act table SD: 16.319509456135282
+
+	league: 4
+		Our metric: 3.5777752572886223
+		Sim table SD: 8.423960635587667 
+		Act table SD: 10.586859648744863
+
+	league: 5
+		Our metric: 9.507363192547134
+		Sim table SD: 8.421401286203139 
+		Act table SD: 17.092832724728677
